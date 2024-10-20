@@ -1,8 +1,9 @@
 #include<stdio.h>
-#include<string.h>
-int main(){
-	int c;
-	while ((c=getchar())
-	printf("%c",c);
-	return 0;
+int main(){ 
+   char string[]="This is an example output string";
+   puts(string);
+   return 0;
 }
+   
+
+
